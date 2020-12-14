@@ -1,5 +1,4 @@
 ## I'm a junior programmer from Moscow ❤
-### I work on various projects to improve my skills
 
 [![Krilifon's github stats](https://github-readme-stats.vercel.app/api?username=krilifon&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
