@@ -1,6 +1,6 @@
 ## I'm a programmer from Moscow ❤
 
-[![Krilifon's github stats](https://github-readme-stats.vercel.app/api?username=krilifon&theme=omni&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/krilifon)
+[![Krilifon's github stats](https://github-readme-stats.vercel.app/api?username=krilifon&theme=omni&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)](https://github.com/krilifon)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-40304f?style=for-the-badge&logo=python&logoColor=ffde00)
